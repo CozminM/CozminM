@@ -21,7 +21,7 @@ I am an energetic and down to earth person, eager to improve my skill-set and me
 
 <img src="https://raw.githubusercontent.com/CozminM/CozminM/master/assests/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/CozminM/CozminM/master/assests/IntelliJ_IDEA_Icon.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/CozminM/CozminM/master/assests/intellij-icon.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/CozminM/CozminM/master/assests/html5-original.svg" height="auto" width="40">
 
