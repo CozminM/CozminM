@@ -40,7 +40,7 @@ I am an energetic and down to earth person, eager to improve my skill-set and me
 ### :technologist: I'm currently working on:
 
 - My Java, Spring Boot and React skills
-- A pet project to refine my skills and learn new technologies
+- A personal project to refine my skills and learn new technologies
 
 ### :nerd_face: I'm currently learning:
 
